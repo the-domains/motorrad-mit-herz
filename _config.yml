@@ -1,7 +1,7 @@
 name: Motorrad mit Herz
 favicon: null
-layout_spectrum: 0.003543201368302107
-typography_spectrum: 0.8927744950633496
+layout_spectrum: 0.0662
+typography_spectrum: 0.90801
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.42694979533553123
-  lightness: 0.7403194888029248
-  saturation: 0.8158887114841491
-  rhythmicContrast: 0.9178132801316679
+  brandStrength: 0.125
+  lightness: 0.625
+  saturation: 0.125
+  rhythmicContrast: 0.75
 purpose: []
