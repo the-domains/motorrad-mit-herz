@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T18:10:34.411Z'
-dateModified: '2016-01-17T15:07:57.718Z'
+datePublished: '2016-01-17T18:10:35.156Z'
+dateModified: '2016-01-17T18:10:34.605Z'
 title: Unser Fuhrpark
 author: []
 sourcePath: _posts/2016-01-17-unser-fuhrpark.md
