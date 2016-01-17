@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T16:40:05.682Z'
-dateModified: '2016-01-16T16:35:42.399Z'
+datePublished: '2016-01-17T08:53:07.683Z'
+dateModified: '2016-01-17T08:52:10.072Z'
 title: 'Der Anfang: Route des Grand Alpes und Col de la Bonette'
 author: []
+sourcePath: _posts/2016-01-16-der-anfang-route-des-grand-alpes-und-col-de-la-bonette.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-16-der-anfang-route-des-grand-alpes-und-col-de-la-bonette.md
-published: true
 url: der-anfang-route-des-grand-alpes-und-col-de-la-bonette/index.html
 _type: Article
 
