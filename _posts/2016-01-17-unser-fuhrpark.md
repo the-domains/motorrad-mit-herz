@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T18:10:34.605Z'
+datePublished: '2016-01-17T18:10:34.411Z'
 dateModified: '2016-01-17T15:07:57.718Z'
 title: Unser Fuhrpark
 author: []
