@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Motorrad mit Herz]]></title>
         <description><![CDATA[Motorrad mit Herz]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/motorrad-mit-herz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 16:44:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jan 2016 08:41:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/motorrad-mit-herz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Der Anfang: Route des Grand Alpes und Col de la Bonette]]></title>
+            <description><![CDATA[<article><h1>Der Anfang: Route des Grand Alpes und Col de la Bonette</h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/motorrad-mit-herz/der-anfang-route-des-grand-alpes-und-col-de-la-bonette/index.html</link>
+            <guid isPermaLink="false">490d4c6a-c9fe-4fe8-81e9-b3cdf4f8afab</guid>
+            <pubDate>Sat, 16 Jan 2016 16:40:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Motorrad mit Herz]]></title>
             <description><![CDATA[<article><h1>Motorrad mit Herz</h1><p>Hallo und herzlich willkommen bei Motorrad mit Herz!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7fa77853b6a613ff9e4f2e516d1a7a4663d5b21f.jpg"></article>]]></description>
-            <link>undefinedmotorrad-mit-herz/index.html</link>
+            <link>https://thegrid.ai/motorrad-mit-herz/motorrad-mit-herz/index.html</link>
             <guid isPermaLink="false">6a253f6c-185b-4283-941f-29024f0ccf5a</guid>
-            <pubDate>Sat, 16 Jan 2016 16:39:51 GMT</pubDate>
+            <pubDate>Sun, 17 Jan 2016 08:41:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
