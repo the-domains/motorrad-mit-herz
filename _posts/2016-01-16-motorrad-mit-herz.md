@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T08:50:07.082Z'
-dateModified: '2016-01-17T08:50:03.645Z'
+datePublished: '2016-01-17T08:50:07.250Z'
+dateModified: '2016-01-17T08:50:07.075Z'
 title: Motorrad mit Herz
 author: []
 sourcePath: _posts/2016-01-16-motorrad-mit-herz.md
