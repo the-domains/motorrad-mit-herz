@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T09:44:33.376Z'
-dateModified: '2016-01-17T09:44:19.773Z'
+datePublished: '2016-01-17T18:10:34.353Z'
+dateModified: '2016-01-17T15:07:57.718Z'
 title: Unser Fuhrpark
 author: []
+sourcePath: _posts/2016-01-17-unser-fuhrpark.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-17-unser-fuhrpark.md
-published: true
 url: unser-fuhrpark/index.html
 _type: Article
 
@@ -35,17 +35,17 @@ Walburga benutzt für unsere Touren ihre eigene Street Triple oder bekommt mit e
 Auf der Rennstrecke nutzt Walburga übrigens meistens ihre eigens hergerichtete Honda CBR600F, nachdem sie die Honda durch die Triumph Street Triple für den Straßeneinsatz ersetzt hat. Die Firma WS Motorradtechnik aus Parndorf am Neusiedler See hat die Honda entsprechend ringmäßig in Szene gesetzt. WS Motorradtechnik ist Spezialist für solche Ring-Umbauten und tut dies Markenunabhängig (wie zum Beispiel auch für die BMW S1000RR (http://www.1000ps.at/veranstaltungen-2351890-ws-motorradtechnik)).
 
 Oder Walburga benutzt einfach eines der auf den 1000PS Rennstrecken-Events angebotenen Test-Motorräder: sei es von BMW, Suzuki, KTM, oder MV Augusta!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e481c9c3-0965-40c5-89d5-30b6de7e33af.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac6b8484-6c97-441e-a247-3988b06ca56a.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c7531ab-6d19-4dfa-8cd2-c6d86a648143.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/66668928-6a8d-418d-8e0b-d30d3d072be5.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ec43a56-717b-44bc-90f4-8fbc5623c740.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b24a79ee-0541-457c-b7d2-c8e62c24d00b.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ffebc4f-4762-4464-8a52-17b113575e53.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e887492d-5e35-415c-83fb-5fc1eff77cfb.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06e42653-84b7-4069-992e-1b5766549afe.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/79fcc292-2113-4ec4-a891-25ac0de5e5a3.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65104e9c-4782-4ef6-8e55-60fbc19807fc.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b6b7b9d-75e4-4192-92b0-271bd535a664.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abba16d2-1cad-4efe-aec1-8fa62e8a973f.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fd919c7-6108-4d08-ac1a-219166dfc2ca.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6e55031b88d18c14d80bfdd354725af37480be0.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/31cc9258c8de67b1e69273e957513c4e7ff53f30.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2caf0ea60ac55001496e7486e9c4ec461329a62.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f15ecd3037c1b2b7507d59e4f186e395fd6c147b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7de5fe09f81b63faed3ea2ff2dae3a4951a4ee2f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/01cff3e15bcb56d42e9ea6d2fa87963a61abca6b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c60ab5bbc3a04b20c7c043be907ed29c1851b1e2.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/02216c757c3eaa2a7541211f6f3ba20bd5ac862a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/786d04b2b762eb3f8bb0f6c462350d6932c59eec.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f882879fbc2fd9ef2cd6cbdd13947600c0b59b79.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0fc7367f3ca1a477c6e21d552822be6e5b43ce53.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0d13956788c3cd934346ef80cf9451b852b3189.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/454e1ce7bc0f592e6e40292c956926b20348e9d3.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a6f8c6b6277f2e81f3ca1b4a1aa786dbaaef9d9.jpg)
